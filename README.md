@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **Cyber Security **
 
